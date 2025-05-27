@@ -1,0 +1,1 @@
+swiper website > react > npm i swiper
